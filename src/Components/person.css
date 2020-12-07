@@ -1,0 +1,11 @@
+.person {
+    padding: 20px;
+}
+.person-card {
+    border: #282c34 solid 5px;
+    padding: 10px;
+    background-color: lightgray;
+}
+.person-card > ul {
+    list-style: none;
+}
